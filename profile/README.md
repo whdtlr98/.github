@@ -15,7 +15,7 @@
 
 ## 🗺️ SeoulPOT 🗺️
 ### 📌 개발 기간
-2024-07-23 ~ 2024-08-27 (1st agile)
+[2024-07-23 ~ 2024-08-27 (1st agile)](https://github.com/SeoulPOT/.github/blob/main/agile-notes/1st-agile.md)
 
 <br/><br/>
 
