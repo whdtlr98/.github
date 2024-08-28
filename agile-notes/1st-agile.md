@@ -1,9 +1,18 @@
+
+
 # [🗺️ SeoulPOT 🗺️](http://13.125.231.69/)
+
 <details>
-  <summary><h2>🖥️ 1st-agile : SeoulPOT</h2></summary>
-  <p><strong>개발 기간</strong> : 2024-07-23 ~ 2024-08-27 (총 30일)</p>
-  <img src="https://github.com/user-attachments/assets/e343cb3c-92a6-47d0-b32c-e4a7c96012ca"  width="700"/>
+  <summary><h2>🖥️ 1st-agile</h2></summary>
+  <p><strong>개발 기간</strong> | 2024-07-23 ~ 2024-08-27 (총 30일)</p>
+  <p><strong>개발 목표</strong> | 향후 확장 기능 통합을 위한 웹 프레임워크 구축</p>
+  <p><strong>UI</strong> |</p>
+  <img src="https://github.com/user-attachments/assets/d428f4f9-45a7-4846-b61b-8212f678dfad"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/69573f80-7116-4797-bcee-96d04105b48f"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/de32eb69-d2cc-4d88-a6a6-06fd64b5b7c7"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/38f1f3d1-c448-4243-bb31-04cc3c0458f0"  width="500"/>
 </details>
+
 <details>
   <summary><h2>🗂️ 요구사항 정의서</h2></summary>
   <details>
