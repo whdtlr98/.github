@@ -87,56 +87,61 @@
 
 <details>
   <summary><h2>💣 이슈로그</h2></summary>
-  <p><strong>⚠️ 이모지 인코딩 오류 [데이터베이스]</strong></p>
+  <h3>⚠️ 이모지 인코딩 오류 [데이터베이스]</h3>
   <p><strong>문제:</strong> 리뷰 내용 데이터베이스 적재시 인코딩 문제로 인한 오류 발생</p>
   <p><strong>해결:</strong> utf8mb4로 character set을 변경해주어 이모지 적재가 가능하도록 함</p>
   <code>ALTER TABLE review_tb CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</code>
-  <br/><br/>
-  <p><strong>⚠️ 운영시간의 큰 형식 차이 [데이터 전처리]</strong></p>
+  <br/>
+  <h3>⚠️ 운영시간의 큰 형식 차이 [데이터 전처리]</h3>
   <p><strong>문제:</strong> 요일마다 있는 곳도 있으며, 시간만 있는 곳도 있었으나 하나의 형식으로 맞추어야 했음</p>
   <p><strong>해결:</strong> 요일마다 있더라도 대부분의 시간대가 동일하므로, 00:00 ~ 00:00 형식의 데이터 추출( & 정기 휴무)로써 통일화</p>
-  <br/><br/>
-  <p><strong>⚠️ 전처리 코드 통일화 필요 [데이터 전처리]</strong></p>
+  <br/>
+  <h3>⚠️ 전처리 코드 통일화 필요 [데이터 전처리]</h3>
   <p><strong>문제:</strong> 크롤링을 분담하여 수행하다보니, 데이터 형식의 차이 존재</p>
   <p><strong>해결:</strong> encoding : utf-8로 통일, 컬럼명 통일 과정 거침 (하나의 코드로 전처리 가능하도록)</p>
-  <br/><br/>
-  <p><strong>⚠️ datetime type error [데이터 전처리]</strong></p>
+  <br/>
+  <h3>⚠️ datetime type error [데이터 전처리]</h3>
   <p><strong>문제:</strong> Python의 timestamp가 MySQL로 들어가지 못함</p>
   <code>>> Python 'timestamp' cannot be converted to a MySQL type</code>
   <p><strong>해결:</strong> timestamp를 datetime으로 변환하여 적재 (pd.to_datetime 활용)</p>
-  <br/><br/>
-  <p><strong>⚠️ 지도 시각화 버튼 인식 오류 [프론트엔드]</strong></p>
+  <br/>
+  <h3>⚠️ 지도 시각화 버튼 인식 오류 [프론트엔드]</h3>
   <p><strong>문제:</strong> 서울시의 중심이 기준으로 인식되어 버튼 호버→ 확대시 좌우, 상하 이동 발생</p>
   <p><strong>해결:</strong> 구의 각 요소에 중심값을 설정하여 시각적으로 잘 확대되도록 해결</p>
-  <br/><br/>
-  <p><strong>⚠️ 지도 클릭이 안되는 오류 [크롤링]</strong></p>
+  <br/>
+  <h3>⚠️ Context 를 자바스크립트에서 사용[자바스크립트]</h3>
+  <p><strong>문제:</strong> 자바스크립트에서 장고에서 넘겨 받은 데이터를 사용하려고 하니 타입오류가 발생</p>
+  <p><strong>해결:</strong> 템플릿에서 데이터를 자바스크립트 변수로 JSON형태로 변환하여 사용</p>
+  <br/>
+  <h3>⚠️ 지도 클릭이 안되는 오류 [크롤링]</h3>
   <p><strong>문제:</strong> 네이버 페이지 특성 상 Iframe으로 감싸져 있어 페이지 클릭이 안되는 오류 발생</p>
   <p><strong>해결:</strong> 네이버 지도에서 가게 코드를 따와 모바일 버전 링크로 1차 크롤링 후 가게 정보, 리뷰에 대한 2,3차 크롤링 진행</p>
-  <br/><br/>
-  <p><strong>⚠️ 리뷰에 포함된 각종 태그 인식 오류 [크롤링]</strong></p>
+  <br/>
+  <h3>⚠️ 리뷰에 포함된 각종 태그 인식 오류 [크롤링]</h3>
   <p><strong>문제:</strong> 원하는 태그를 가져올 때 제대로 인식이 안되서 에러 발생</p>
   <p><strong>해결:</strong> 태그를 따로 지정해놓은 후 같은 태그가 있으면 저장하는 방법 사용</p>
-  <br/><br/>
-  <p><strong>⚠️ 리뷰가 없는 가게 인식 문제 [크롤링]</strong></p>
+  <br/>
+  <h3>⚠️ 리뷰가 없는 가게 인식 문제 [크롤링]</h3>
   <p><strong>문제:</strong> 리뷰가 없는 가게 무한 페이지 다운 오류 발생</p>
   <p><strong>해결:</strong> break, continue 를 사용했을 때 정상적인 가게들의 리뷰 크롤링 마저 문제가 생겨 리뷰가 없는 가게 행 삭제</p>
-  <br/><br/>
-  <p><strong>⚠️ 식당 정보 데이터 문제 [크롤링]</strong></p>
+  <br/>
+  <h3>⚠️ 식당 정보 데이터 문제 [크롤링]</h3>
   <p><strong>문제:</strong> 서울시 식당 정보 데이터를 받아왔으나, 프랜차이즈나 가게 명으로만 검색할 경우 여러개의 가게가 검색되거나 혹은 해당 가게가 검색되지 않는 오류 발생</p>
   <p><strong>해결:</strong> 가게명과 주소 일부를 같이 작성해 검색함</p>
-  <br/><br/>
-  <p><strong>⚠️ 식당 정보 데이터 문제 [크롤링]</strong></p>
+  <br/>
+  <h3>⚠️ 식당 정보 데이터 문제 [크롤링]</h3>
   <p><strong>문제:</strong> 폐업한 가게를 제외하고 검색했으나 해당 가게가 존재하지 않는 이슈 발생</p>
   <p><strong>해결:</strong> 1차 애자일에서는 주소값이 없는 가게를 제외하고 크롤링 → 주소값이 없는 가게를 2차 크롤링을 할 지, 없는 가게로 칭할 지 아직 미정</p>
-  <br/><br/>
-  <p><strong>⚠️ 팝업 데이터 크롤링 지연 문제 [크롤링]</strong></p>
+  <br/>
+  <h3>⚠️ 팝업 데이터 크롤링 지연 문제 [크롤링]</h3>
   <p><strong>문제:</strong> 팝업 페이지를 크롤링 중 path값의 오류가 없음에도 크롤링이 진행되지 않는 문제 발생</p>
   <p><strong>해결:</strong> WebDriverWait를 바탕으로 리소스별 로딩 대기 시간을 주어 해결함</p>
-  <br/><br/>
-  <p><strong>⚠️ 리뷰 크롤링 시 더보기 버튼 오류 [크롤링]</strong></p>
+  <br/>
+  <h3>⚠️ 리뷰 크롤링 시 더보기 버튼 오류 [크롤링]</h3>
   <p><strong>문제:</strong> 리뷰 크롤링을 하다 보면 랜덤으로 몇몇 가게는 10개 이상의 리뷰가 있음에도 불구하고 더보기 버튼을 누르지 않아 10개의 리뷰만 긁어옴</p>
   <p><strong>해결:</strong> 원인 파악 중</p>
 </details>
+
 
 <details>
   <summary><h2>🔧 수정사항</h2></summary>
@@ -150,16 +155,18 @@
             <li>용산구</li>
         </ul>
     </div>
+  <br/>
     <div class="section">
         <h3>✔️ 체크박스 및 각종 프론트 수정</h3>
         <img src="https://github.com/user-attachments/assets/e02bd58e-158e-4453-ba61-5f1ad27ae88e" alt="프론트 수정 이미지" style="width: 400px;">
     </div>
     <div class="section">
-        <h3>✔️ 현재 관광지에 구별 2-3개 관광지만 존재함</h3>
+        <h3>✔️ 추가 관광지 정보 조사 후 추가 예정</h3>
         <ul>
-            <li>추가 관광지 정보 조사 후 추가 예정</li>
+            <li>현재 관광지에 구별 2-3개 관광지만 존재함</li>
         </ul>
     </div>
+<br/>
     <div class="section">
         <h3>✔️ 인공지능을 추가 시 필요한 UI 추가</h3>
         <ul>
@@ -167,8 +174,9 @@
             <li>광고성 유무 비율 시각화</li>
         </ul>
     </div>
+  <br/>
     <div class="section">
-        <h3>✔️ 인공지능 파트</h3>
+        <h3>✔️ 인공지능 분석 추가</h3>
         <ul>
             <li>카테고리별 시각화
                 <ul>
@@ -184,8 +192,9 @@
             </li>
         </ul>
     </div>
+  <br/>
     <div class="section">
-        <h3>✔️ [프론트/백] 추가 페이지</h3>
+        <h3>✔️ [프론트/백] 카테고리별 시각화 페이지 추가</h3>
         <ul>
             <li>카테고리별 시각화 페이지</li>
             <li>카테고리별 지도 시각화</li>
@@ -193,17 +202,19 @@
         <img src="https://github.com/user-attachments/assets/a61afebd-a670-450e-9ed2-d8bb29909c1d" alt="지도 시각화 이미지" style="width: 400px;">
     </div>
     <div class="section">
-        <h3>✔️ Translate 하기</h3>
+        <h3>✔️ Translate을 통한 영어버전 추가</h3>
         <ul>
             <li>번역 작업 진행 예정</li>
         </ul>
     </div>
+  <br/>
     <div class="section">
-        <h3>✔️ 환전소 위치 정보 추가 예정</h3>
+        <h3>✔️ 환전소 위치 정보 추가</h3>
         <ul>
             <li>위치 정보에 따른 추가 페이지 구현</li>
         </ul>
     </div>
+  <br/>
     <div class="section">
         <h3>✔️ 글꼴 변경</h3>
         <ul>
@@ -211,13 +222,20 @@
         </ul>
         <img src="https://github.com/user-attachments/assets/20f78819-4f60-4856-aece-ad675f5acbd0" alt="글꼴 변경 이미지" style="width: 400px;">
     </div>
+  <br/>
     <div class="section">
-        <h3>✔️ 마우스 호버로 가게 간략 정보 추가 예정</h3>
+        <h3>✔️ 마우스 호버로 가게 간략 정보 추가</h3>
         <img src="https://github.com/user-attachments/assets/bcc414c4-962e-4814-bf50-6d2bc6239d1a" alt="가게 정보 호버 이미지" style="width: 400px;">
         <img src="https://github.com/user-attachments/assets/e9a31805-ace8-4573-848e-1037ec8bde38" alt="가게 정보 호버 추가 이미지" style="width: 400px;">
     </div>
+  <br/>
     <div class="section">
-        <h3>✔️ 주요 관광지 별 인근 지하철 역 표시 예정</h3>
+        <h3>✔️ 주요 관광지 별 인근 지하철 역 표시</h3>
         <img src="https://github.com/user-attachments/assets/0b34ee02-681e-4837-a293-7cf3c6305f0f" alt="지하철 역 표시" style="width: 400px;">
+    </div>
+  <br/>
+    <div class="section">
+        <h3>✔️ 지도 구역 넘어가는 문제 해결</h3>
+        <img src="https://github.com/user-attachments/assets/2acf617d-95ef-4f3e-8405-936df1e01870" alt="지하철 역 표시" style="width: 400px;">
     </div>
 </details>
