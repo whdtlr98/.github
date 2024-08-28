@@ -3,38 +3,38 @@
 <details>
   <summary><h2>🖥️ SeoulPOT UI</h2></summary>
   <img src="https://github.com/user-attachments/assets/e343cb3c-92a6-47d0-b32c-e4a7c96012ca"  width="500"/>
-<details/>
+</details>
   
 <details>
-  <summary><h2>요구사항 정의서</h2></summary>
+  <summary><h2>🗂️ 요구사항 정의서</h2></summary>
   <details>
     <summary><h2>프로젝트 관리</h2></summary>
     <img src="https://github.com/user-attachments/assets/b65b1490-6401-498d-abca-9e04eba36e4e"  width="500"/>
-  <details/>
+  </details>
   <details>
     <summary><h2>프론트엔드</h2></summary>
     <img src="https://github.com/user-attachments/assets/0cdc5848-4fc1-4b54-b837-d68ab8f4fe5d"  width="500"/>
-  <details/>
+  </details>
   <details>
     <summary><h2>백엔드</h2></summary>
     <img src="https://github.com/user-attachments/assets/650722a1-e289-4a5e-b994-79b1561b7b66"  width="500"/>
-  <details/>
-<details/>
+  </details>
+</details>
 
 <details>
-  <summary><h2>API 명세서</h2></summary>
+  <summary><h2>🌐 API 명세서</h2></summary>
   <img src="https://github.com/user-attachments/assets/e343cb3c-92a6-47d0-b32c-e4a7c96012ca"  width="500"/>
-<details/>
+</details>
 
 <details>
-  <summary><h2>데이터베이스 (ERD)</h2></summary>
+  <summary><h2>💾 데이터베이스 (ERD)</h2></summary>
   <img src="https://github.com/user-attachments/assets/aabf7ec0-16c3-4b35-b4ec-ec9fd7e155bf"  width="500"/>
-<details/>
+</details>
 
 <details>
-  <summary><h2>일정 관리 (WBS)</h2></summary>
+  <summary><h2>📅 일정 관리 (WBS)</h2></summary>
   <img src="https://github.com/user-attachments/assets/3d94314a-aa08-4438-8469-f9a1f350c4a9"  width="500"/>
-<details/>
+</details>
 
 <details>
   <summary><h2>🗨️ 후기</h2></summary>
