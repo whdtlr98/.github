@@ -4,12 +4,58 @@
 
 <br/>
 
+
+
 ### 📌 팀 멤버
-| 서민정 | 정해린 | 김종식 | 최연규 | 하은진 | 문건우 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| @seom-j | @junghl11 | @whdtlr98 | @dkwcdr | @ha000jin | @Jamesmoon00 |
-|  |  |  |  |  |  |
-| Project Leader | Back-end | Back-end | Front-end, AI | AI | 인턴 |
+<table>
+  <tr>
+    <th align="center">서민정</th>
+    <th align="center">정해린</th>
+    <th align="center">김종식</th>
+    <th align="center">최연규</th>
+    <th align="center">하은진</th>
+    <th align="center">문건우</th>
+  </tr>
+  <tr>
+    <td align="center">@seom-j</td>
+    <td align="center">@junghl11</td>
+    <td align="center">@whdtlr98</td>
+    <td align="center">@dkwcdr</td>
+    <td align="center">@ha000jin</td>
+    <td align="center">@Jamesmoon00</td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bbccd524-f324-4b76-972d-0aafbae81e97" width="150" alt="서민정">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bd92998c-645e-415a-ba81-ad5b251d414b" width="150" alt="정해린">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b9b23af6-f806-446b-81cf-b5c95464e793" width="150" alt="김종식">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/21dda55b-4a24-442c-81d0-a6578db71509" width="150" alt="최연규">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3540aab8-32b6-4512-81a1-69187defea87" width="150" alt="하은진">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c5822443-3f93-4bbe-98a1-1a7ddb5c641a" width="150" alt="문건우">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Project Leader</td>
+    <td align="center">Back-end</td>
+    <td align="center">Back-end</td>
+    <td align="center">Front-end, AI</td>
+    <td align="center">AI</td>
+    <td align="center">인턴</td>
+  </tr>
+</table>
+
+
+
 
 <br/><br/><br/>
 
