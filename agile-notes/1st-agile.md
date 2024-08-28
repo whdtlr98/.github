@@ -82,7 +82,6 @@
 
 <details>
   <summary><h2>💣 이슈로그</h2></summary>
-  <br/><br/>
   <p><strong>⚠️ 이모지 인코딩 오류 [데이터베이스]</strong></p>
   <p><strong>문제:</strong> 리뷰 내용 데이터베이스 적재시 인코딩 문제로 인한 오류 발생</p>
   <p><strong>해결:</strong> utf8mb4로 character set을 변경해주어 이모지 적재가 가능하도록 함</p>
