@@ -132,3 +132,87 @@
   <p><strong>문제:</strong> 리뷰 크롤링을 하다 보면 랜덤으로 몇몇 가게는 10개 이상의 리뷰가 있음에도 불구하고 더보기 버튼을 누르지 않아 10개의 리뷰만 긁어옴</p>
   <p><strong>해결:</strong> 원인 파악 중</p>
 </details>
+
+<details>
+  <summary><h2>🔧 수정사항</h2></summary>
+  <div class="section">
+        <h3>✔️ 외국인 방문객에 적합한 5개 구 리뷰 크롤링</h3>
+        <ul>
+            <li>강남구</li>
+            <li>중구</li>
+            <li>종로구</li>
+            <li>마포구</li>
+            <li>용산구</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h3>✔️ 체크박스 및 각종 프론트 수정</h3>
+        <img src="https://github.com/user-attachments/assets/e02bd58e-158e-4453-ba61-5f1ad27ae88e" alt="프론트 수정 이미지" style="width: 400px;">
+    </div>
+    <div class="section">
+        <h3>✔️ 현재 관광지에 구별 2-3개 관광지만 존재함</h3>
+        <ul>
+            <li>추가 관광지 정보 조사 후 추가 예정</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h3>✔️ 인공지능을 추가 시 필요한 UI 추가</h3>
+        <ul>
+            <li>긍/부정 비율 시각화</li>
+            <li>광고성 유무 비율 시각화</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h3>✔️ 인공지능 파트</h3>
+        <ul>
+            <li>카테고리별 시각화
+                <ul>
+                    <li>카테고리 추출 ex) MZ, K-POP, 혼놀족 등</li>
+                </ul>
+            </li>
+            <li>리뷰 페이지
+                <ul>
+                    <li>키워드 추출</li>
+                    <li>감정 분석</li>
+                    <li>광고성 분석</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div class="section">
+        <h3>✔️ [프론트/백] 추가 페이지</h3>
+        <ul>
+            <li>카테고리별 시각화 페이지</li>
+            <li>카테고리별 지도 시각화</li>
+        </ul>
+        <img src="https://github.com/user-attachments/assets/a61afebd-a670-450e-9ed2-d8bb29909c1d" alt="지도 시각화 이미지" style="width: 400px;">
+    </div>
+    <div class="section">
+        <h3>✔️ Translate 하기</h3>
+        <ul>
+            <li>번역 작업 진행 예정</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h3>✔️ 환전소 위치 정보 추가 예정</h3>
+        <ul>
+            <li>위치 정보에 따른 추가 페이지 구현</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h3>✔️ 글꼴 변경</h3>
+        <ul>
+            <li>영어 배포를 위해 읽기 편한 글꼴로 변경</li>
+        </ul>
+        <img src="https://github.com/user-attachments/assets/20f78819-4f60-4856-aece-ad675f5acbd0" alt="글꼴 변경 이미지" style="width: 400px;">
+    </div>
+    <div class="section">
+        <h3>✔️ 마우스 호버로 가게 간략 정보 추가 예정</h3>
+        <img src="https://github.com/user-attachments/assets/bcc414c4-962e-4814-bf50-6d2bc6239d1a" alt="가게 정보 호버 이미지" style="width: 400px;">
+        <img src="https://github.com/user-attachments/assets/e9a31805-ace8-4573-848e-1037ec8bde38" alt="가게 정보 호버 추가 이미지" style="width: 400px;">
+    </div>
+    <div class="section">
+        <h3>✔️ 주요 관광지 별 인근 지하철 역 표시 예정</h3>
+        <img src="https://github.com/user-attachments/assets/0b34ee02-681e-4837-a293-7cf3c6305f0f" alt="지하철 역 표시" style="width: 400px;">
+    </div>
+</details>
