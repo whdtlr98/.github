@@ -48,13 +48,13 @@
 </details>
 
 <details>
-  <summary><h2>📚 아키텍쳐</h2></summary>
-  <img src="https://github.com/user-attachments/assets/5d6c3b37-1fb1-408e-80d2-9fe9567130cb"  width="700"/>
+  <summary><h2>📅 일정 관리 (WBS)</h2></summary>
+  <img src="https://github.com/user-attachments/assets/3d94314a-aa08-4438-8469-f9a1f350c4a9"  width="1000"/>
 </details>
 
 <details>
-  <summary><h2>📅 일정 관리 (WBS)</h2></summary>
-  <img src="https://github.com/user-attachments/assets/3d94314a-aa08-4438-8469-f9a1f350c4a9"  width="1000"/>
+  <summary><h2>📚 아키텍쳐</h2></summary>
+  <img src="https://github.com/user-attachments/assets/5d6c3b37-1fb1-408e-80d2-9fe9567130cb"  width="700"/>
 </details>
 
 <details>
