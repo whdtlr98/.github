@@ -91,7 +91,7 @@
   <p><strong>문제:</strong> 리뷰 내용 데이터베이스 적재시 인코딩 문제로 인한 오류 발생</p>
   <p><strong>해결:</strong> utf8mb4로 character set을 변경해주어 이모지 적재가 가능하도록 함</p>
   <code>ALTER TABLE review_tb CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</code>
-  <br/>
+  <br/><br/>
   <h3>⚠️ 운영시간의 큰 형식 차이 [데이터 전처리]</h3>
   <p><strong>문제:</strong> 요일마다 있는 곳도 있으며, 시간만 있는 곳도 있었으나 하나의 형식으로 맞추어야 했음</p>
   <p><strong>해결:</strong> 요일마다 있더라도 대부분의 시간대가 동일하므로, 00:00 ~ 00:00 형식의 데이터 추출( & 정기 휴무)로써 통일화</p>
@@ -144,7 +144,7 @@
 
 
 <details>
-  <summary><h2>🔧 수정사항</h2></summary>
+  <summary><h2>🔧 앞으로의 수정사항</h2></summary>
   <div class="section">
         <h3>✔️ 외국인 방문객에 적합한 5개 구 리뷰 크롤링</h3>
         <ul>
