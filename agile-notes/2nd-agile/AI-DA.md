@@ -95,7 +95,7 @@
 > 
 > KoELECTRA 모델에 대해 수행
 
-**④ 모델 평가 및 inference**
+**④ Labeling**
 
 > 전이학습된 KoElectra를 활용하여 200,000,000개 데이터(Unlabeled) 라벨링 수행
 > 
