@@ -37,7 +37,7 @@
 
 <details>
   <summary><h2>🌐 API 명세서</h2></summary>
-  <img src="https://github.com/user-attachments/assets/e343cb3c-92a6-47d0-b32c-e4a7c96012ca"  width="700"/>
+  <img src="https://github.com/user-attachments/assets/0c888c07-6ebf-49cb-b826-894ee35fe41f"  width="700"/>
 </details>
 
 <details>
@@ -47,11 +47,13 @@
 
 <details>
   <summary><h2>📅 일정 관리 (WBS)</h2></summary>
-  <img src="https://github.com/user-attachments/assets/47869252-8e11-4d3c-b94a-28ad6ba91b33"  width="1000"/>
+  <img src="https://github.com/user-attachments/assets/10018080-bc84-4ddd-a846-467723f404bd"  width="1000"/>
 </details>
+
+
 <details>
   <summary><h2>📚 아키텍쳐</h2></summary>
-  <img src="https://github.com/user-attachments/assets/5d6c3b37-1fb1-408e-80d2-9fe9567130cb"  width="700"/>
+  <img src="https://github.com/user-attachments/assets/3672822f-8e68-49e6-90dd-4cd3338c1c05"  width="700"/>
 
 </details>
 
