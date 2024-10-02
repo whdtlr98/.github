@@ -1,4 +1,4 @@
-# AI-DA
+# DA-AI
 <details>
   <summary><h2>📜 광고성 리뷰 추출 & 제거</h2></summary>
 
