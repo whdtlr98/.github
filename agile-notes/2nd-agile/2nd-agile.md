@@ -95,7 +95,7 @@
 <details>
   <summary><h2>💣 이슈로그</h2></summary>
   <h3>⚠️ LLM 구동시 RAM 부족 [인공지능]</h3>
-  <p><strong>문제:</strong> 구글 코랩의 T4 GPU으로 Llama2-7B 사용시 RAM의 부족으로 런타임 종료</p>
+  <p><strong>문제:</strong> 구글 코랩의 T4 GPU로 Llama2-7B 사용시 RAM의 부족으로 런타임 종료</p>
   <p><strong>해결:</strong> 코랩에서 작동 가능한 경량화된 Mistral-7B 사용 (추론, 이해, STEM 추론에서 Llama 2와 비교하여 3배 이상 작은 사이즈로 더 좋은 성능을 보여줌)</p>
   <br/>
   <h3>⚠️ 문제 [파트]</h3>
