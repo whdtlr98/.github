@@ -22,13 +22,11 @@
     <summary>웹</summary>
     <br/>
     <img src="https://github.com/user-attachments/assets/4cdc82e6-33e7-43b0-86b6-55803966eefd"  width="700"/>
-
   </details>
   <details>
     <summary>DA-AI</summary>
     <br/>
     <img src="https://github.com/user-attachments/assets/ec5277a7-857d-4afd-9a8c-8260fac4ecd5"  width="700"/>
-
   </details>
 </details>
 
@@ -56,7 +54,6 @@
 <details>
   <summary><h2>📚 아키텍쳐</h2></summary>
   <img src="https://github.com/user-attachments/assets/3672822f-8e68-49e6-90dd-4cd3338c1c05"  width="700"/>
-
 </details>
 
 <details>
