@@ -63,7 +63,7 @@
   </p>
   <p class="message">
       <strong>은진 : </strong>
-      룰루랄라 2차도 화이팅 :) (이게 toy가 맞나요?)
+      다같이 의지 활활 🔥 인 덕분에 저도 에너지를 얻고, 열심히 할 수 있었습니다~~
   </p>
   <p class="message">
       <strong>종식 : </strong>
@@ -71,7 +71,7 @@
   </p>
   <p class="message">
       <strong>해린 : </strong>
-      분명 1차때 다 할 수 있을 줄 알았는데 2,3차로 넘어가버리는 마술 … ? 🧙🏻
+      처음에 목표했던대로 진행되고 있는 거 같아 아주 뿌듯하고 행복합니다 3차도 이 기세를 몰아 잘 마무리하고자 합니다 우리팀 첵오 😉 
   </p>
   <p class="message">
       <strong>건우 : </strong>
@@ -87,7 +87,7 @@
   </p>
   <p class="message">
       <strong>영빈 : </strong>
-      최고의 팀원분들과 함께라서 프로젝트에 몰입할 수 있었습니다~~ 3차 때도 아자핑~💛
+      다들 너무 열심히 하시는 모습이 저도 동기부여가 되었고 3차부터 조금이라도 도움이 되고싶습니다. 
   </p>
 </details>
 
@@ -111,25 +111,16 @@
 <details>
   <summary><h2>🔧 앞으로의 수정사항</h2></summary>
   <div class="section">
-        <h3>✔️ 외국인 방문객에 적합한 5개 구 리뷰 크롤링</h3>
-        <ul>
-            <li>강남구</li>
-            <li>중구</li>
-            <li>종로구</li>
-            <li>마포구</li>
-            <li>용산구</li>
-        </ul>
-    </div>
-  <br/>
-    <div class="section">
-        <h3>✔️ 체크박스 및 각종 프론트 수정</h3>
-        <img src="https://github.com/user-attachments/assets/e02bd58e-158e-4453-ba61-5f1ad27ae88e" alt="프론트 수정 이미지" style="width: 400px;">
-    </div>
-    <div class="section">
-        <h3>✔️ 추가 관광지 정보 조사 후 추가 예정</h3>
-        <ul>
-            <li>현재 관광지에 구별 2-3개 관광지만 존재함</li>
-        </ul>
-    </div>
+        <h4>✔️ 인공지능 모델 성능 강화</h4>
+  </div>
+  <div class="section">
+        <h4>✔️ 추가 데이터 분석 수행 </h4>
+  </div>
+  <div class="section">
+        <h4>✔️ 데이터 적재 방식 변경 (S3 + NoSQL)</h4>
+  </div>
+  <div class="section">
+        <h4>✔️ 데이터 업데이트 자동화 및 병렬처리</h4>
+  </div>
 <br/>
 </details>
