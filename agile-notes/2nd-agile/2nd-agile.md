@@ -95,18 +95,13 @@
 
 <details>
   <summary><h2>💣 이슈로그</h2></summary>
-  <h3>⚠️ 이모지 인코딩 오류 [데이터베이스]</h3>
-  <p><strong>문제:</strong> 리뷰 내용 데이터베이스 적재시 인코딩 문제로 인한 오류 발생</p>
-  <p><strong>해결:</strong> utf8mb4로 character set을 변경해주어 이모지 적재가 가능하도록 함</p>
-  <code>ALTER TABLE review_tb CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</code>
-  <br/><br/>
-  <h3>⚠️ 팝업 데이터 크롤링 지연 문제 [크롤링]</h3>
-  <p><strong>문제:</strong> 팝업 페이지를 크롤링 중 path값의 오류가 없음에도 크롤링이 진행되지 않는 문제 발생</p>
-  <p><strong>해결:</strong> WebDriverWait를 바탕으로 리소스별 로딩 대기 시간을 주어 해결함</p>
+  <h3>⚠️ LLM 구동시 RAM 부족 [인공지능]</h3>
+  <p><strong>문제:</strong> 구글 코랩의 T4 GPU으로 Llama2-7B 사용시 RAM의 부족으로 런타임 종료</p>
+  <p><strong>해결:</strong> 코랩에서 작동 가능한 경량화된 Mistral-7B 사용 (추론, 이해, STEM 추론에서 Llama 2와 비교하여 3배 이상 작은 사이즈로 더 좋은 성능을 보여줌)</p>
   <br/>
-  <h3>⚠️ 리뷰 크롤링 시 더보기 버튼 오류 [크롤링]</h3>
-  <p><strong>문제:</strong> 리뷰 크롤링을 하다 보면 랜덤으로 몇몇 가게는 10개 이상의 리뷰가 있음에도 불구하고 더보기 버튼을 누르지 않아 10개의 리뷰만 긁어옴</p>
-  <p><strong>해결:</strong> 원인 파악 중</p>
+  <h3>⚠️ 문제 [파트]</h3>
+  <p><strong>문제:</strong> 문제</p>
+  <p><strong>해결:</strong> 해결</p>
 </details>
 
 
