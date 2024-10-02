@@ -16,23 +16,25 @@
   <details>
     <summary>프로젝트 관리</summary>
     <br/>
-    <img src="https://github.com/user-attachments/assets/b65b1490-6401-498d-abca-9e04eba36e4e"  width="700"/>
+    <img src="https://github.com/user-attachments/assets/6b4b7950-7f44-4ef2-9953-ef52f48b007d"  width="700"/>
   </details>
   <details>
-    <summary>프론트엔드</summary>
+    <summary>웹</summary>
     <br/>
-    <img src="https://github.com/user-attachments/assets/0cdc5848-4fc1-4b54-b837-d68ab8f4fe5d"  width="700"/>
+    <img src="https://github.com/user-attachments/assets/4cdc82e6-33e7-43b0-86b6-55803966eefd"  width="700"/>
+
   </details>
   <details>
-    <summary>백엔드</summary>
+    <summary>DA-AI</summary>
     <br/>
-    <img src="https://github.com/user-attachments/assets/650722a1-e289-4a5e-b994-79b1561b7b66"  width="700"/>
+    <img src="https://github.com/user-attachments/assets/ec5277a7-857d-4afd-9a8c-8260fac4ecd5"  width="700"/>
+
   </details>
 </details>
 
 <details>
   <summary><h2>🎨 Figma</h2></summary>
-  <img src="https://github.com/user-attachments/assets/fb2c4063-be07-425e-aaa3-1555c5d40259"  width="1000"/>
+  <img src="https://github.com/user-attachments/assets/2690d5dc-ad47-476b-b454-854024d994f7"  width="1000"/>
 </details>
 
 <details>
