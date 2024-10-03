@@ -98,9 +98,13 @@
   <p><strong>문제:</strong> 구글 코랩의 T4 GPU로 Llama2-7B 사용시 RAM의 부족으로 런타임 종료</p>
   <p><strong>해결:</strong> 코랩에서 작동 가능한 경량화된 Mistral-7B 사용 (추론, 이해, STEM 추론에서 Llama 2와 비교하여 3배 이상 작은 사이즈로 더 좋은 성능을 보여줌)</p>
   <br/>
-  <h3>⚠️ 문제 [파트]</h3>
-  <p><strong>문제:</strong> 문제</p>
-  <p><strong>해결:</strong> 해결</p>
+  <h3>⚠️ ecs 컨테이너가 용량 문제로 강제종료 [웹 aws]</h3>
+  <p><strong>문제:</strong> ecs task 정의 시 할당한 cpu와 메모리가 부족해 컨테이너가 강제종료됨</p>
+  <p><strong>해결:</strong> task 메모리 및 cpu 크기를 늘림</p>
+  <br/>
+  <h3>⚠️ 코드 변경 있을 때마다 새로운 task 생성으로 ip주소 바뀜 [웹 aws]</h3>
+  <p><strong>문제:</strong> 코드 변경 있을 시 pipeline을 통해 새로운 버전의 task 생성으로 서비스 ip 주소 새로 생성</p>
+  <p><strong>해결:</strong> 로드 밸런싱을 통해 해결 예정</p>
 </details>
 
 
