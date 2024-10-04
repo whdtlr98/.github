@@ -5,12 +5,65 @@
   <p><strong>개발 기간</strong> | 2024-08-28 ~ 2024-09-27 (총 30일)</p>
   <p><strong>개발 목표</strong> | 웹 UI 개선, 데이터 범위 확장 및 세부 기능(DA/AI) 구현</p>
   <p><strong>UI</strong> |</p>
-  <img src="https://github.com/user-attachments/assets/ccbe19ee-93f0-4c89-be38-7d8e6e08d094"  width="500"/>
-  <img src="https://github.com/user-attachments/assets/99b70483-0b81-4eca-9118-d759699c023b"  width="500"/>
-  <img src="https://github.com/user-attachments/assets/cbf38bb9-5502-4d06-b055-0ccd3866e3a9"  width="500"/>
-  <img src="https://github.com/user-attachments/assets/ba51f223-bd4f-4c78-92ea-99f0d8d8f572"  width="500"/>
-  <img src="https://github.com/user-attachments/assets/1f9148c6-b90a-4745-9b6d-b2e466d50fb0"  width="500"/>
-  <img src="https://github.com/user-attachments/assets/39f634a0-5438-4ebf-a1cb-0c77a775653d"  width="500"/>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th align="center">
+      한글 UI
+    </th>
+    <th align="center">
+      영어 UI
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ccbe19ee-93f0-4c89-be38-7d8e6e08d094" width="500"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/665f4684-3119-434b-a127-4bf05501c25a" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/99b70483-0b81-4eca-9118-d759699c023b" width="500"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/16cf382f-55db-4a87-ba8b-aa82fda716c9" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cbf38bb9-5502-4d06-b055-0ccd3866e3a9" width="500"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0d370d5b-569a-4553-bfc1-23bb0dc65173" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ba51f223-bd4f-4c78-92ea-99f0d8d8f572" width="500"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/74642e75-d470-4f58-abc5-fa243e67a37a" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1f9148c6-b90a-4745-9b6d-b2e466d50fb0" width="500"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6be62d18-b7c2-46a6-8886-1654ba01bec3" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/39f634a0-5438-4ebf-a1cb-0c77a775653d" width="500"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4e7f6b00-a063-4911-ad16-065d2acb9241" width="500"/>
+    </td>
+  </tr>
+</table>
+
 
 </details>
 
