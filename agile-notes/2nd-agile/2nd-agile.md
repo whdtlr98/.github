@@ -1,14 +1,17 @@
-# [🗺️ SeoulPOT 🗺️](http://43.202.163.51/)
+# [🗺️ SeoulPOT 🗺️](http://3.38.44.127/)
 
 <details>
   <summary><h2>🖥️ 2nd-agile</h2></summary>
   <p><strong>개발 기간</strong> | 2024-08-28 ~ 2024-09-27 (총 30일)</p>
-  <p><strong>개발 목표</strong> | 웹 UI 개선 및 세부 기능(DA/AI) 구현</p>
+  <p><strong>개발 목표</strong> | 웹 UI 개선, 데이터 범위 확장 및 세부 기능(DA/AI) 구현</p>
   <p><strong>UI</strong> |</p>
-  <img src="https://github.com/user-attachments/assets/d428f4f9-45a7-4846-b61b-8212f678dfad"  width="500"/>
-  <img src="https://github.com/user-attachments/assets/69573f80-7116-4797-bcee-96d04105b48f"  width="500"/>
-  <img src="https://github.com/user-attachments/assets/de32eb69-d2cc-4d88-a6a6-06fd64b5b7c7"  width="500"/>
-  <img src="https://github.com/user-attachments/assets/38f1f3d1-c448-4243-bb31-04cc3c0458f0"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/ccbe19ee-93f0-4c89-be38-7d8e6e08d094"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/99b70483-0b81-4eca-9118-d759699c023b"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/cbf38bb9-5502-4d06-b055-0ccd3866e3a9"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/ba51f223-bd4f-4c78-92ea-99f0d8d8f572"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/1f9148c6-b90a-4745-9b6d-b2e466d50fb0"  width="500"/>
+  <img src="https://github.com/user-attachments/assets/39f634a0-5438-4ebf-a1cb-0c77a775653d"  width="500"/>
+
 </details>
 
 <details>
