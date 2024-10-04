@@ -38,8 +38,11 @@ urlpatterns = [
 1. **강남구**:
    - **주요 관광지**: 봉은사, 코엑스
    - **가까운 지하철역**: 봉은사, 삼성
+![image](https://github.com/user-attachments/assets/0c1a1705-de88-44f2-9a90-ac83e7631f48)
 
 > 설정되지 않은 구를 클릭하면 "Coming Soon" 메시지가 표시됩니다.
+> ![image](https://github.com/user-attachments/assets/07b66535-bfa2-40bc-8508-dca562197d12)
+
 </details>
 
 <details>
@@ -49,6 +52,8 @@ urlpatterns = [
 - **INFO창 추가**: 기존에 지도 마커가 어떤 장소를 나타내는지 알기 어려운 문제를 해결하기 위해 각 마커에 INFO창을 추가하여 장소 정보를 표시.
 - **클릭 이벤트 수정**: 마커를 클릭하면 해당 장소의 리뷰 화면으로 이동하도록 수정.
 - **즐겨찾기 기능 추가**: 장소가 많아 원하는 장소를 찾기 힘든 문제를 해결하기 위해, 즐겨찾기 기능을 도입. 사용자가 관심 있는 장소를 즐겨찾기에 추가하여 모아서 볼 수 있도록 수정.
+- ![image](https://github.com/user-attachments/assets/eec8802e-3a2a-42dd-a4aa-83046457d53e)
+
 
 </details>
 
@@ -63,6 +68,7 @@ urlpatterns = [
   - 모든 리뷰를 나열하지 않고, 중요한 리뷰들만 간략하게 확인 가능.
 
 - **더보기 화면 추가**: 리뷰를 더 자세히 보고 싶은 경우를 대비하여 "더보기" 버튼을 추가하여, 클릭 시 전체 리뷰를 볼 수 있도록 수정.
+  ![image](https://github.com/user-attachments/assets/22558165-0dc3-482d-8976-aca57b051c5b)
 
 </details>
 
