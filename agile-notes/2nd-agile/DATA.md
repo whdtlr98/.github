@@ -1,5 +1,10 @@
 # DATA
 <details>
+  <summary><h2>🔎 Processes Preview</h2></summary>
+    <img src="https://github.com/user-attachments/assets/a5b2b941-8b23-4743-8426-0d0510e36b54"/>
+</details>
+
+<details>
   <summary><h2>📂 데이터 수집</h2></summary>
 
 ### <mark>💾 기존 크롤링 방법</mark>
