@@ -5,60 +5,50 @@
 <br/>
 
 ### 📌 팀 멤버
+
 <table>
-  <tr>
-    <th align="center">-</th>
-    <th align="center">서민정</th>
-    <th align="center">정해린</th>
-    <th align="center">김종식</th>
-    <th align="center">최연규</th>
-    <th align="center">하은진</th>
-    <th align="center">문건우</th>
-    <th align="center">송영빈</th>
-    <th align="center">오승민</th>
+<tr>
+    <th align="center">Img</th>
+    <th align="center">
+      <img src="https://github.com/user-attachments/assets/761af643-43a1-4a21-b5ba-4b2074b33327" width="300px" alt="서민정">
+    </th>
+    <th align="center">
+      <img src="https://github.com/user-attachments/assets/1bc5cafb-d056-48c6-aba8-abfba73b29f7" width="300px" alt="정해린">
+    </th>
+    <th align="center">
+      <img src="https://github.com/user-attachments/assets/1dba68e3-071d-4a18-9ec5-18debdf154da" width="300px" alt="김종식">
+    </th>
+    <th align="center">
+      <img src="https://github.com/user-attachments/assets/1c12f547-1924-4d07-be23-25ecd6a7b823" width="300px" alt="최연규">
+    </th>
+    <th align="center">
+      <img src="https://github.com/user-attachments/assets/27fcd9f5-ddb8-488b-9107-8e82aef14b4c" width="300px" alt="하은진">
+    </th>
+    <th align="center">
+      <img src="https://github.com/user-attachments/assets/631c59ae-a63e-4474-9195-c2f76cee5693" width="300px" alt="문건우">
+    </th>
+    <th align="center">
+      <img src="https://github.com/user-attachments/assets/8390107a-efdc-4ee0-bd67-df578f35be17" width="300px" alt="송영빈">
+    </th>
+    <th align="center">
+      <img src="https://github.com/user-attachments/assets/2689e48a-0678-4379-94ec-86499e56e637" width="300px" alt="오승민">
+    </th>
   </tr>
   <tr>
-    <td align="center">Git Id</td>
-    <td align="center">@seom-j</td>
-    <td align="center">@junghl11</td>
-    <td align="center">@whdtlr98</td>
-    <td align="center">@dkwcdr</td>
-    <td align="center">@ha000jin</td>
-    <td align="center">@Jamesmoon00</td>
-    <td align="center">@GETSPRING8230</td>
-    <td align="center">@Jamesmoon00</td>
-  </tr>  
-   <tr>
-     <td align="center">Img</td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/761af643-43a1-4a21-b5ba-4b2074b33327" width="150" alt="서민정">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/1bc5cafb-d056-48c6-aba8-abfba73b29f7" width="150" alt="정해린">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/1dba68e3-071d-4a18-9ec5-18debdf154da" width="150" alt="김종식">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/1c12f547-1924-4d07-be23-25ecd6a7b823" width="150" alt="최연규">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/27fcd9f5-ddb8-488b-9107-8e82aef14b4c" width="150" alt="하은진">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/631c59ae-a63e-4474-9195-c2f76cee5693" width="150" alt="문건우">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/8390107a-efdc-4ee0-bd67-df578f35be17" width="150" alt="송영빈">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/2689e48a-0678-4379-94ec-86499e56e637" width="150" alt="오승민">
-    </td>
+    <td align="center">Name</td>
+    <td align="center">서민정</td>
+    <td align="center">정해린</td>
+    <td align="center">김종식</td>
+    <td align="center">최연규</td>
+    <td align="center">하은진</td>
+    <td align="center">문건우</td>
+    <td align="center">송영빈</td>
+    <td align="center">오승민</td>
   </tr>
   <tr>
     <td align="center">1st-agile Role</td>
-    <td align="center">Project Leader, Data Management</td>
-    <td align="center">Back-end, Data Crawling</td>
+    <td align="center">Project Leader, Data</td>
+    <td align="center"> Back-end, Data</td>
     <td align="center">Back-end</td>
     <td align="center">Front-end</td>
     <td align="center">Back-end</td>
@@ -68,8 +58,8 @@
   </tr>
   <tr>
     <td align="center">2nd-agile Role</td>
-    <td align="center">Project Leader, DA/AI, Data Management</td>
-    <td align="center">Crawling, Data Management</td>
+    <td align="center">Project Leader, DA/AI, Data</td>
+    <td align="center">Data</td>
     <td align="center">Web</td>
     <td align="center">Web, DA/AI</td>
     <td align="center">DA/AI</td>
