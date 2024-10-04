@@ -4,53 +4,78 @@
 
 <br/>
 
-
-
 ### 📌 팀 멤버
 <table>
   <tr>
+    <th align="center">-</th>
     <th align="center">서민정</th>
     <th align="center">정해린</th>
     <th align="center">김종식</th>
     <th align="center">최연규</th>
     <th align="center">하은진</th>
     <th align="center">문건우</th>
+    <th align="center">송영빈</th>
+    <th align="center">오승민</th>
   </tr>
   <tr>
+    <td align="center">Git Id</td>
     <td align="center">@seom-j</td>
     <td align="center">@junghl11</td>
     <td align="center">@whdtlr98</td>
     <td align="center">@dkwcdr</td>
     <td align="center">@ha000jin</td>
     <td align="center">@Jamesmoon00</td>
-  </tr>
+    <td align="center">@GETSPRING8230</td>
+    <td align="center">@Jamesmoon00</td>
+  </tr>  
    <tr>
+     <td align="center">Img</td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/bbccd524-f324-4b76-972d-0aafbae81e97" width="150" alt="서민정">
+      <img src="https://github.com/user-attachments/assets/761af643-43a1-4a21-b5ba-4b2074b33327" width="150" alt="서민정">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/bd92998c-645e-415a-ba81-ad5b251d414b" width="150" alt="정해린">
+      <img src="https://github.com/user-attachments/assets/1bc5cafb-d056-48c6-aba8-abfba73b29f7" width="150" alt="정해린">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b9b23af6-f806-446b-81cf-b5c95464e793" width="150" alt="김종식">
+      <img src="https://github.com/user-attachments/assets/1dba68e3-071d-4a18-9ec5-18debdf154da" width="150" alt="김종식">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/21dda55b-4a24-442c-81d0-a6578db71509" width="150" alt="최연규">
+      <img src="https://github.com/user-attachments/assets/1c12f547-1924-4d07-be23-25ecd6a7b823" width="150" alt="최연규">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3540aab8-32b6-4512-81a1-69187defea87" width="150" alt="하은진">
+      <img src="https://github.com/user-attachments/assets/27fcd9f5-ddb8-488b-9107-8e82aef14b4c" width="150" alt="하은진">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c5822443-3f93-4bbe-98a1-1a7ddb5c641a" width="150" alt="문건우">
+      <img src="https://github.com/user-attachments/assets/631c59ae-a63e-4474-9195-c2f76cee5693" width="150" alt="문건우">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8390107a-efdc-4ee0-bd67-df578f35be17" width="150" alt="송영빈">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2689e48a-0678-4379-94ec-86499e56e637" width="150" alt="오승민">
     </td>
   </tr>
   <tr>
-    <td align="center">Project Leader</td>
+    <td align="center">1st-agile Role</td>
+    <td align="center">Project Leader, Data Management</td>
+    <td align="center">Back-end, Data Crawling</td>
     <td align="center">Back-end</td>
+    <td align="center">Front-end</td>
     <td align="center">Back-end</td>
-    <td align="center">Front-end, AI</td>
-    <td align="center">AI</td>
-    <td align="center">인턴</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">2nd-agile Role</td>
+    <td align="center">Project Leader, DA/AI, Data Management</td>
+    <td align="center">Crawling, Data Management</td>
+    <td align="center">Web</td>
+    <td align="center">Web, DA/AI</td>
+    <td align="center">DA/AI</td>
+    <td align="center">Web, DA/AI</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
 </table>
 
@@ -119,7 +144,7 @@
 <br/><br/>
  
 ### 📌 프로젝트 의의
-**[  🏷️ 신뢰도 높은 데이터 제공  ]**
+**[  🏷️ 신뢰도 높은 시각적 데이터 제공  ]**
 
 > 수 십만개 이상의 데이터 분석을 통해 외국인 관광객에게 정확하고 신뢰할 수 있는 정보 제공
 >
@@ -179,6 +204,6 @@
 **[  📝 장소 세부 정보 및 리뷰 제공  ]**
 > 선택한 가게 / 관광지의 주요 정보(주소, 전화번호, 영업시간 등) 및 리뷰 정보(날짜, 각종 태그, 내용) 제공
 >
-> 목적 : 상세 정보를 통한 장소 선정 및 계획 수립
+> 목적 : 대시보드를 통해 장소에 대한 전반적인 정보를 쉽게 파악하고, 장소 선정 및 계획 수립을 보다 효율적으로 할 수 있도록 지원함
 
 <br/><br/>
