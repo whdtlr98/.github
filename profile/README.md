@@ -67,6 +67,17 @@
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">3rd-agile Role</td>
+    <td align="center">Project Leader, DE</td>
+    <td align="center">AI</td>
+    <td align="center">Web, AI</td>
+    <td align="center">Web, AI</td>
+    <td align="center">DA Team Leader</td>
+    <td align="center">Web, DA</td>
+    <td align="center">DA</td>
+    <td align="center">AI Team Leader</td>
+  </tr>
 </table>
 
 
