@@ -8,7 +8,7 @@
 
 <details>
   <summary><h2>🏗️ Data Engineering Architecture</h2></summary>
-  <img src="https://github.com/user-attachments/assets/14ee2191-13b8-45a9-9ada-2ad6edfa8a58"/>
+  <img src="https://github.com/user-attachments/assets/119552ce-d363-4c41-bc15-fca8266a7d1d"/>
 </details>
 
 <details>
