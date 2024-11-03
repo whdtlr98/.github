@@ -1,9 +1,14 @@
 
-# DA-AI
+# DE
 
 <details>
   <summary><h2>🔎 Processes Preview</h2></summary>
-  <img src="https://github.com/user-attachments/assets/0534f674-ceb0-4895-b724-2ab0341a4260"/>
+  <img src="https://github.com/user-attachments/assets/acc2c65a-06f3-4ebc-86ff-090874f7dc86"/>
+</details>
+
+<details>
+  <summary><h2>🏗️ Data Engineering Architecture</h2></summary>
+  <img src="https://github.com/user-attachments/assets/14ee2191-13b8-45a9-9ada-2ad6edfa8a58"/>
 </details>
 
 <details>
