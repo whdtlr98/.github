@@ -91,6 +91,8 @@
 
 [2024-08-28 ~ 2024-09-27 (2nd agile)](https://github.com/SeoulPOT/.github/tree/main/agile-notes/2nd-agile)
 
+[2024-09-28 ~ 2024-10-27 (3rd agile)](https://github.com/SeoulPOT/.github/tree/main/agile-notes/3rd-agile)
+
 <br/><br/>
 
 ### 📌 프로젝트 소개
