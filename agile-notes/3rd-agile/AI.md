@@ -131,38 +131,26 @@
 본 연구에서는 한국어 리뷰 데이터를 대상으로 광고성 리뷰 탐지 및 감정 분석을 수행하여 리뷰 데이터의 품질을 향상시키는 방법을 제안하였다. 데이터 불균형 문제를 해결하고, Transformer 모델과 KcBERT, SDOC 알고리즘 등을 통합하여 모델의 성능을 향상시켰다. 실험 결과, 제안된 방법은 광고성 리뷰를 효과적으로 탐지하였으며, 감정 분석을 통해 리뷰의 질을 평가할 수 있었다. 이를 통해 사용자들에게 보다 신뢰성 있는 리뷰 정보를 제공할 수 있을 것으로 기대된다.
 
 ## 참고 문헌 (References)
-[^1^]: Hu, N., Pavlou, P. A., & Zhang, J. (2006). Can online reviews reveal a product’s true quality? Proceedings of the 7th ACM conference on Electronic commerce.
 
-[^2^]: Yoo, K. H., & Gretzel, U. (2009). Comparison of deceptive and truthful travel reviews. Information and communication technologies in tourism 2009.
-
-[^3^]: Jindal, N., & Liu, B. (2008). Opinion spam and analysis. Proceedings of the 2008 international conference on web search and data mining.
-
-[^4^]: Mukherjee, A., Venkataraman, V., Liu, B., & Glance, N. (2013). Fake review detection: Classification and analysis of real and pseudo reviews. UAI.
-
-[^5^]: Vaswani, A., et al. (2017). Attention is all you need. Advances in neural information processing systems.
-
-[^6^]: Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis. Foundations and Trends® in Information Retrieval.
-
-[^7^]: Chawla, N. V., et al. (2002). SMOTE: synthetic minority over-sampling technique. Journal of Artificial Intelligence Research.
-
-[^8^]: Lee, J., et al. (2020). KR-BERT: A small-scale Korean-specific language model. arXiv preprint arXiv:2008.03979.
-
-[^9^]: Pontiki, M., et al. (2016). SemEval-2016 task 5: Aspect based sentiment analysis. Proceedings of the 10th international workshop on semantic evaluation (SemEval-2016).
-
-[^10^]: Zhu, X., & Goldberg, A. B. (2009). Introduction to semi-supervised learning. Synthesis lectures on artificial intelligence and machine learning.
-
-[^11^]: Li, F., et al. (2011). Spam detection by content and structure analysis. ICDE.
-
-[^12^]: Ott, M., Choi, Y., Cardie, C., & Hancock, J. T. (2011). Finding deceptive opinion spam by any stretch of the imagination. Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies.
-
-[^13^]: Li, J., & Hovy, E. (2014). Sentiment analysis on the people’s daily. Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics.
-
-[^14^]: Fei, G., Mukherjee, A., Liu, B., Hsu, M., Castellanos, M., & Ghosh, R. (2013). Exploiting burstiness in reviews for review spammer detection. Proceedings of ICWSM.
-
-[^15^]: Li, J., Yang, L., & Zhang, P. (2023). Shooting review spam with a weakly supervised approach and a sentiment-distribution-oriented method. Applied Intelligence, 53(9), 10789-10799.
-
+<ol>
+  <li>Hu, N., Pavlou, P. A., & Zhang, J. (2006). Can online reviews reveal a product’s true quality? <i>Proceedings of the 7th ACM conference on Electronic commerce</i>.</li>
+  <li>Yoo, K. H., & Gretzel, U. (2009). Comparison of deceptive and truthful travel reviews. <i>Information and communication technologies in tourism 2009</i>.</li>
+  <li>Jindal, N., & Liu, B. (2008). Opinion spam and analysis. <i>Proceedings of the 2008 international conference on web search and data mining</i>.</li>
+  <li>Mukherjee, A., Venkataraman, V., Liu, B., & Glance, N. (2013). Fake review detection: Classification and analysis of real and pseudo reviews. <i>UAI</i>.</li>
+  <li>Vaswani, A., et al. (2017). Attention is all you need. <i>Advances in neural information processing systems</i>.</li>
+  <li>Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis. <i>Foundations and Trends® in Information Retrieval</i>.</li>
+  <li>Chawla, N. V., et al. (2002). SMOTE: synthetic minority over-sampling technique. <i>Journal of Artificial Intelligence Research</i>.</li>
+  <li>Lee, J., et al. (2020). KR-BERT: A small-scale Korean-specific language model. <i>arXiv preprint arXiv:2008.03979</i>.</li>
+  <li>Pontiki, M., et al. (2016). SemEval-2016 task 5: Aspect based sentiment analysis. <i>Proceedings of the 10th international workshop on semantic evaluation (SemEval-2016)</i>.</li>
+  <li>Zhu, X., & Goldberg, A. B. (2009). Introduction to semi-supervised learning. <i>Synthesis lectures on artificial intelligence and machine learning</i>.</li>
+  <li>Li, F., et al. (2011). Spam detection by content and structure analysis. <i>ICDE</i>.</li>
+  <li>Ott, M., Choi, Y., Cardie, C., & Hancock, J. T. (2011). Finding deceptive opinion spam by any stretch of the imagination. <i>Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies</i>.</li>
+  <li>Li, J., & Hovy, E. (2014). Sentiment analysis on the people’s daily. <i>Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics</i>.</li>
+  <li>Fei, G., Mukherjee, A., Liu, B., Hsu, M., Castellanos, M., & Ghosh, R. (2013). Exploiting burstiness in reviews for review spammer detection. <i>Proceedings of ICWSM</i>.</li>
+  <li>Li, J., Yang, L., & Zhang, P. (2023). Shooting review spam with a weakly supervised approach and a sentiment-distribution-oriented method. <i>Applied Intelligence, 53</i>(9), 10789-10799.</li>
+</ol>
 
 ## 실험 환경 (Experimental Setup)
 
-	•	하드웨어: NVIDIA GPU를 사용하여 모델 학습 및 추론을 수행하였다.
-	•	소프트웨어: Python 3.8, PyTorch, Transformers 라이브러리 등을 사용하였다.
+- **하드웨어**: NVIDIA GPU를 사용하여 모델 학습 및 추론을 수행하였다.
+- **소프트웨어**: Python 3.8, PyTorch, Transformers 라이브러리 등을 사용하였다.
