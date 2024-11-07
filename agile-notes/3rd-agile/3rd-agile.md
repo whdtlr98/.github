@@ -162,7 +162,8 @@ chunks = [input_ids[i:i + 100] for i in range(0, len(input_ids), 100)]
       <strong>해린 : </strong>
   </p>
   <p class="message">
-      <strong>건우 : 텔레비전들과 함께했던 토이프로젝트. 어려웠던 게 참 많았지만, 팀원들이 있어서 해낼 수 있었습니다. 다들 최종 프로젝트때도 각자 위치에서 힘내요!!</strong>
+      <strong>건우 :</strong>
+      텔레비전들과 함께했던 토이프로젝트. 어려웠던 게 참 많았지만, 팀원들이 있어서 해낼 수 있었습니다. 다들 최종 프로젝트때도 각자 위치에서 힘내요!!
   </p>
   <p class="message">
       <strong>연규 : </strong>
@@ -172,5 +173,6 @@ chunks = [input_ids[i:i + 100] for i in range(0, len(input_ids), 100)]
   </p>
   <p class="message">
       <strong>영빈 : </strong>
+      뒤늦게 합류해서 한달밖에 함께하지 못했지만 하길 참 잘했다고 생각했습니다. 배운게 많은 한달이었습니다. 최종프로젝트도 화이팅~ 
   </p>
 </details>
