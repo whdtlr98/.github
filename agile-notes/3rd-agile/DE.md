@@ -7,12 +7,12 @@
 </details>
 
 <details>
-  <summary><h2>🏗️ Data Engineering Architecture</h2></summary>
-  <img src="https://github.com/user-attachments/assets/119552ce-d363-4c41-bc15-fca8266a7d1d"/>
+  <summary><h2>🏗️ Data Engineering Flow Architecture</h2></summary>
+  <img src="https://github.com/user-attachments/assets/055f0fa3-803c-417a-8290-38e11c8258bc"/>
 </details>
 
 <details>
-  <summary><h2>🆕 최신 리뷰 업데이트</h2></summary>
+  <summary><h2>🆕 데이터 업데이트 자동화</h2></summary>
 
 ### <mark>🎯 목적</mark>
 
