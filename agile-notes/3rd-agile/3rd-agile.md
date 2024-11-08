@@ -157,6 +157,7 @@ chunks = [input_ids[i:i + 100] for i in range(0, len(input_ids), 100)]
   </p>
   <p class="message">
       <strong>종식 : </strong>
+      처음에는 제가 끝가지 갈 수 있을가 의문이었지만 유능한 팀원들이 있었기에 끝까지 온 것 같습니다. 다들 최종프젝도, 나중에 있을 취업도 잘 되면 좋겠습니다!
   </p>
   <p class="message">
       <strong>해린 : </strong>
